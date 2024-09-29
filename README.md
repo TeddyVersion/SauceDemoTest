@@ -2,7 +2,7 @@ SauceDemoTest
 
 Overview
 
-This project automates the testing of the SauceDemo web application, a popular demo site for e-commerce testing. The tests are implemented using Playwright to ensure robust testing and reliable functionality across various user scenarios.
+This project automates the testing of the SauceDemo web application, The tests are implemented using Playwright to ensure robust testing and reliable functionality across various user scenarios.
 
 Before you begin, ensure you have the following installed:
 
