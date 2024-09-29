@@ -13,7 +13,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/saucedemotest.git
+git clone https://github.com/TeddyVersion/saucedemotest.git
 cd saucedemotest
 Install the dependencies:
 
